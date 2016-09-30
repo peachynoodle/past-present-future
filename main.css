@@ -1,0 +1,86 @@
+body{
+	background-color: #ffffff;
+	padding: 20px;
+  max-width: 850px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+li{
+	font-family: 'Raleway', sans-serif;
+	font-size: 17px;
+}
+
+ul li {
+	font-family: 'Raleway', sans-serif;
+	list-style-type:circle;
+	font-size: 17px;
+}
+h1 {
+	color: #00cc99;
+	font-size: 45px;
+	font-family: 'Fjalla One', sans-serif;
+	line-height: 50px;
+	text-align: left;
+}
+
+h2 {
+	color:  #4d4d4d;
+	font-size: 34px;
+	font-family: 'Fjalla One', sans-serif;
+	text-align: left;
+}
+
+h3 {
+    color: #8c8c8c;
+		font-size: 25px;
+    font-family: 'Fjalla One', sans-serif;
+		text-align: left;
+}
+
+p{
+    font-family: 'Raleway', sans-serif;
+		font-size: 19px;
+}
+
+section {
+    clear: both;
+}
+
+a:link {
+	color:  #fe3911;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #004d39;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:active {
+	color:  #00cc99;
+}
+
+img {
+		max-width: 100%;
+}
+
+img.left {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+img.right {
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+img.center {
+    display: block;
+    margin: 0 auto;
+}
